@@ -1,0 +1,13 @@
+C:\Users\jhordan\source\repos\VentanaSQLComand\bin\Debug\Tienda.mdf
+C:\Users\jhordan\source\repos\VentanaSQLComand\bin\Debug\Tienda_log.ldf
+C:\Users\jhordan\source\repos\VentanaSQLComand\bin\Debug\VentanaSQLComand.exe.config
+C:\Users\jhordan\source\repos\VentanaSQLComand\bin\Debug\VentanaSQLComand.exe
+C:\Users\jhordan\source\repos\VentanaSQLComand\bin\Debug\VentanaSQLComand.pdb
+C:\Users\jhordan\source\repos\VentanaSQLComand\obj\Debug\VentanaSQLComand.csproj.AssemblyReference.cache
+C:\Users\jhordan\source\repos\VentanaSQLComand\obj\Debug\VentanaSQLComand.csproj.SuggestedBindingRedirects.cache
+C:\Users\jhordan\source\repos\VentanaSQLComand\obj\Debug\VentanaSQLComand.Properties.Resources.resources
+C:\Users\jhordan\source\repos\VentanaSQLComand\obj\Debug\VentanaSQLComand.csproj.GenerateResource.cache
+C:\Users\jhordan\source\repos\VentanaSQLComand\obj\Debug\VentanaSQLComand.csproj.CoreCompileInputs.cache
+C:\Users\jhordan\source\repos\VentanaSQLComand\obj\Debug\VentanaSQLComand.exe
+C:\Users\jhordan\source\repos\VentanaSQLComand\obj\Debug\VentanaSQLComand.pdb
+C:\Users\jhordan\source\repos\VentanaSQLComand\obj\Debug\VentanaSQLComand.Form1.resources
